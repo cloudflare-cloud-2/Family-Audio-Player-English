@@ -1,0 +1,16 @@
+# Source / build assets — used only by build_english.py, not needed at runtime
+English-Audio/
+kjv.json
+build_english.py
+
+# Jekyll (carried over from the original repo)
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+.bundle/
+vendor/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
