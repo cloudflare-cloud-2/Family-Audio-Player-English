@@ -1,0 +1,1 @@
+onDescriptionLoaded("1 Behold, bless ye the Lord, all ye servants of the Lord, which by night stand in the house of the Lord.\n\n2 Lift up your hands in the sanctuary, and bless the Lord.\n\n3 The Lord that made heaven and earth bless thee out of Zion.");
